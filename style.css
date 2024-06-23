@@ -1,0 +1,7 @@
+a{
+    column-gap: normal;
+}
+
+section{
+    background-origin: padding-box;
+}
